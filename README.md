@@ -1,7 +1,9 @@
 # Stellar Skirmish
 
 ## Description
-A barebones top-down space shooter made for practice to learn the basics of Bevy Engine and Rust coding.
+A barebones top-down space shooter.
+
+This is the 1st project in a series of tiny games made for practice to learn the basics of Bevy Engine and Rust coding.
 
 Credit for all assets goes to kenney.nl.
 
